@@ -1,0 +1,6 @@
+{
+  "name": "CallScribe",
+  "description": "Offline-first private AI phone call transcriber & live summary assistant. Supports local encrypted storage, instant action items, CRM integrations, and smart SMS prioritization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
